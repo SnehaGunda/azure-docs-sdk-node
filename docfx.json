@@ -328,6 +328,8 @@
     },
     "template": [],
     "dest": "azure-node-sdk",
-    "markdownEngineName": "markdig"
+    "markdownEngineName": "markdig",
+    "exportRawModel": true,
+    "exportViewModel": true
   }
 }
